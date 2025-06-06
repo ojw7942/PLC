@@ -13,9 +13,9 @@
 ![](./IMAGES/plc08.png)
 ![](./IMAGES/ex08.jpg)
 ![](./IMAGES/plc09.png)
-
+![](./IMAGES/ex05.jpg)
 ![](./IMAGES/plc10.png)
-
+![](./IMAGES/ex06.jpg)
 ![](./IMAGES/plc11.png)
 
 ![](./IMAGES/plc12.png)
