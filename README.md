@@ -9,11 +9,11 @@
 ![](./IMAGES/plc06.png)
 
 ![](./IMAGES/plc07.png)
-
-![](./IMAGES/plc08.png)
 ![](./IMAGES/ex07.jpg)
-![](./IMAGES/plc09.png)
+![](./IMAGES/plc08.png)
 ![](./IMAGES/ex08.jpg)
+![](./IMAGES/plc09.png)
+
 ![](./IMAGES/plc10.png)
 
 ![](./IMAGES/plc11.png)
