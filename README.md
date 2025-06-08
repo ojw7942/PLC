@@ -21,11 +21,11 @@
 ![](./IMAGES/plc12.png)
 ![](./IMAGES/ex10.jpg)
 ![](./IMAGES/plc13.png)
-
+![](./IMAGES/qw04.png)
 ![](./IMAGES/plc14.png)
-
+![](./IMAGES/qw01.png)
 ![](./IMAGES/plc15.png)
-
+![](./IMAGES/qw02.png)
 ![](./IMAGES/plc16.png)
-
+![](./IMAGES/qw03.png)
 ![](./IMAGES/plc17.png)
