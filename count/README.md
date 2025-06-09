@@ -1,4 +1,4 @@
-![](./RST/qw05.png)
+![](./IMAGES/ex05.png)
 ![](./RST/as01.png)
 ![](./RST/qw06.png)
 ![](./RST/as02.png)
