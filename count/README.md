@@ -1,5 +1,6 @@
 # PLC
 ![](./IMAGES/ex05.png)
+![](./IMAGES/ex06.png)
 ![](./RST/as01.png)
 ![](./RST/qw06.png)
 ![](./RST/as02.png)
