@@ -1,4 +1,3 @@
-![](./IMAGES3/z01.png)
 ![](./IMAGES3/z02.jpg)
 ![](./IMAGES3/z04.png)
 ![](./IMAGES3/z03.png)
