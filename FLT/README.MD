@@ -1,5 +1,4 @@
 ![](./IMAGES/a01.png)
-![](./IMAGES/c03.png)
 ![](./IMAGES/a02.png)
 ![](./IMAGES/c01.png)
 ![](./IMAGES/a03.png)
