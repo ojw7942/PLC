@@ -12,7 +12,6 @@
 ![](./IMAGES/p10.png)
 ![](./IMAGES/p11.png)
 ![](./IMAGES/p12.png)
-![](./IMAGES/p18.png)
 ![](./IMAGES/m03.png)
 ![](./IMAGES/p13.png)
 ![](./IMAGES/p14.png)
