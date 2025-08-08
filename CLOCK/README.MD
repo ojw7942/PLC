@@ -1,4 +1,3 @@
-![](./IMAGES/32 램프 ON OFF.png)
 ![](./IMAGES/timer02.png)
 ![](./IMAGES/z01.png)
 ![](./IMAGES/z02.png)
@@ -7,3 +6,4 @@
 ![](./IMAGES/z05.png)
 ![](./IMAGES/z06.png)
 ![](./IMAGES/z07.png)
+![](./IMAGES/32 램프 ON OFF.png)
