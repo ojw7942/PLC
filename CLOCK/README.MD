@@ -1,4 +1,4 @@
-![](./IMAGES/32 ramp.png)
+![](./IMAGES/ramp.png)
 ![](./IMAGES/z01.png)
 ![](./IMAGES/z02.png)
 ![](./IMAGES/z03.png)
